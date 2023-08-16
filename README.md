@@ -9,6 +9,7 @@ Usage:
 
 
 **Important information:**
+
 The pricing for using the ChatGPT API can be found here: https://openai.com/pricing
 
 Reviews will be given a predicted rating, analysis, and predicted tags.
